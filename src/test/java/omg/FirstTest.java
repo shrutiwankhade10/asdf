@@ -89,6 +89,11 @@ public class FirstTest extends base {
 		System.out.println("qwwrerty");
 	}
 	
+	@Test 
+	public void ahbc() {
+		System.out.println("qwwrerty");
+	}
+	
 	
 
 }
