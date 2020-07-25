@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="8" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18324" started-at="2020-07-23T14:27:11Z" finished-at="2020-07-23T14:27:30Z">
+    <groups>
+      <group name="asdf">
+        <method signature="FirstTest.win()[pri:0, instance:omg.FirstTest@367ffa75]" name="win" class="omg.FirstTest"/>
+      </group> <!-- asdf -->
+    </groups>
+    <test name="Test" duration-ms="18324" started-at="2020-07-23T14:27:11Z" finished-at="2020-07-23T14:27:30Z">
+      <class name="omg.FirstTest">
+        <test-method status="PASS" signature="oil()[pri:0, instance:omg.FirstTest@367ffa75]" name="oil" duration-ms="6131" started-at="2020-07-23T14:27:11Z" finished-at="2020-07-23T14:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oil -->
+        <test-method status="PASS" signature="win()[pri:0, instance:omg.FirstTest@367ffa75]" name="win" duration-ms="12146" started-at="2020-07-23T14:27:17Z" finished-at="2020-07-23T14:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- win -->
+      </class> <!-- omg.FirstTest -->
+      <class name="omg.Fourthtest">
+        <test-method status="PASS" signature="opi(java.lang.String, java.lang.String)[pri:0, instance:omg.Fourthtest@2cd76f31]" name="opi" duration-ms="8" started-at="2020-07-23T14:27:11Z" data-provider="getdata" finished-at="2020-07-23T14:27:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hwedfh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shruti]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opi -->
+        <test-method status="PASS" signature="opi(java.lang.String, java.lang.String)[pri:0, instance:omg.Fourthtest@2cd76f31]" name="opi" duration-ms="1" started-at="2020-07-23T14:27:11Z" data-provider="getdata" finished-at="2020-07-23T14:27:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lewkjfwkefj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wankhade]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opi -->
+        <test-method status="PASS" signature="opi(java.lang.String, java.lang.String)[pri:0, instance:omg.Fourthtest@2cd76f31]" name="opi" duration-ms="0" started-at="2020-07-23T14:27:11Z" data-provider="getdata" finished-at="2020-07-23T14:27:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eodoej]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lpopo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opi -->
+      </class> <!-- omg.Fourthtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

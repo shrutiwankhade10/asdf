@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="omg.SecondTest">
+        <methods>
+          <include name="fgtry"/>
+          <include name="boil"/>
+          <include name="fgrt"/>
+        </methods>
+      </class> <!-- omg.SecondTest -->
+      <class name="omg.ThirdTest">
+        <methods>
+          <include name="flow"/>
+        </methods>
+      </class> <!-- omg.ThirdTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
