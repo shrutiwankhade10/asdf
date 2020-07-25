@@ -84,7 +84,10 @@ public class FirstTest extends base {
 		System.out.println(sum);
 	}
 	
-	
+	@Test 
+	public void abc() {
+		System.out.println("qwwrerty");
+	}
 	
 	
 
